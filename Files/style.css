@@ -1,0 +1,65 @@
+/* Tags */
+
+
+/* Classes */
+.headerLogo {
+    vertical-align: middle;
+    fill: red;
+}
+
+.NoticiaTextBold {
+    font-family: "Noticia Text";
+}
+
+.LatoBold {
+    font-family: "Lato";
+}
+
+.HoverUnderLine:link {
+    text-decoration: none;
+}
+
+.HoverUnderLine:visited {
+    text-decoration: none;
+}
+
+.HoverUnderLine:hover {
+    text-decoration: underline;
+}
+
+.HoverUnderLine:active {
+    text-decoration: underline;
+}
+
+.GrayOnHover:link {
+    color: black;
+}
+
+.GrayOnHover:visited {
+    color: black;
+}
+
+.GrayOnHover:hover {
+    color: #606060;
+}
+
+.GrayOnHover:active {
+    color: #606060;
+}
+
+
+
+.Main {
+    font-family: Arial;
+    font-weight: 100;
+    font-size: 18px;
+    letter-spacing: 1px;
+}
+
+.Sticky {
+    position: sticky;
+    padding-top: 25px;
+    width: 300px;
+    top: 0;
+    left: 0;
+}
